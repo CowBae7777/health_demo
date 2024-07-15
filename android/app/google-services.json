@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "589597333586",
+    "firebase_url": "https://health-weiiii-default-rtdb.firebaseio.com",
+    "project_id": "health-weiiii",
+    "storage_bucket": "health-weiiii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589597333586:android:b1bb37c866915ce931278b",
+        "android_client_info": {
+          "package_name": "com.example.healthdemo_0702"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7JGtK0A-vTcgPsw-glWKayrjCXnX8Sog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
